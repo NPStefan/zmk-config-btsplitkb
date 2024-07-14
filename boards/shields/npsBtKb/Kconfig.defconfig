@@ -1,0 +1,6 @@
+if SHIELD_NPSBTKB
+
+config ZMK_NPSBTKB
+    default "npsBtKb"
+
+endif
